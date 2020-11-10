@@ -1,0 +1,11 @@
+$color1: blue;
+$color2: green;
+
+div {
+    p{
+        color: $color1;
+    }
+    ol {
+        color: $color2;
+    }
+}

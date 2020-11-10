@@ -1,0 +1,12 @@
+$color1: blue;
+$color2: green;
+
+div {
+    font-size: 30px;
+    p{
+        color: $color1;
+    }
+    ol {
+        color: $color2;
+    }
+}
